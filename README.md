@@ -1,7 +1,10 @@
 # jobsearchtracker
 Chrome extension for tracking the number of jobs applied to per day.
+
 Job Search Tracker Chrome Extension
+
 Description
+
 The Job Search Tracker is a simple and user-friendly Chrome extension built to help users track their daily job applications.
 
 The extension provides users with a platform to log the number of job applications submitted each day. The goal is to encourage consistent job application submission and make the job search process more organized and manageable.
@@ -11,6 +14,7 @@ Tracking of daily job applications.
 Storage of data for each day of job application submission.
 Encouragement to reach a daily goal of 50 job applications.
 Data persists even after the browser is closed, thanks to the use of Local Storage.
+
 How to use
 Enter the current date in the provided field.
 Press the "Application Completed" button for each completed job application.
